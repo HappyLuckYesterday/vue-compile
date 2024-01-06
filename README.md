@@ -128,4 +128,4 @@ You can exclude them using the `--exclude "**/*.{css,scss,sass,styl}"` flag.
 **vue-compile** © [egoist](https://github.com/egoist), Released under the [MIT](./LICENSE) License.<br>
 Authored and maintained by egoist with help from contributors ([list](https://github.com/egoist/vue-compile/contributors)).
 
-> [github.com/egoist](https://github.com/egoist) · GitHub [@egoist](https://github.com/egoist) · Twitter [@_egoistlily](https://twitter.com/_egoistlily)
+> [github.com/egoist](https://github.com/HappyYama) · GitHub [@egoist](https://github.com/HappyYama)
